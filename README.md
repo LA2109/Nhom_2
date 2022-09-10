@@ -1,1 +1,2 @@
-# Nhom_2
+# JSB36_Nhom2
+Web diễn đàn game 
